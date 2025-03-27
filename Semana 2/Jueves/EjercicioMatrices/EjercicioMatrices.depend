@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743114195 source:d:\desarrollo\utn\programacion2-20251c-n\semana 2\jueves\ejerciciomatrices\main.cpp
+	<iostream>
+	"funciones.h"
+
+1743114882 d:\desarrollo\utn\programacion2-20251c-n\semana 2\jueves\ejerciciomatrices\funciones.h
+
+1743114503 source:d:\desarrollo\utn\programacion2-20251c-n\semana 2\jueves\ejerciciomatrices\funciones.cpp
+	<iostream>
+	"funciones.h"
+
