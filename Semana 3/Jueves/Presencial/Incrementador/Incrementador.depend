@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1743717627 source:/home/angel/Documentos/UTN/Incrementador/main.cpp
+	<iostream>
+	"clsIncrementador.h"
+
+1743718705 /home/angel/Documentos/UTN/Incrementador/clsIncrementador.h
+
+1743718807 source:/home/angel/Documentos/UTN/Incrementador/clsIncrementador.cpp
+	"clsIncrementador.h"
+	<cstdlib>
+	<iostream>
+
