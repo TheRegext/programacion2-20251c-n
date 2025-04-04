@@ -39,38 +39,41 @@ using namespace std;
 
 
 */
-Evaluador cargarEvaluador(){
+Evaluador cargarEvaluador()
+{
   int establecerValores;
-  
+
   cout << "Quiere establecer valores de evaluacion? 1- Si 0- No";
   cin >> establecerValores;
-  
-  if(establecerValores == 1){
+
+  if(establecerValores == 1)
+  {
     /// pedir valores
     int edadMinima = 0;
     // cin correspondientes
-    
+
     return Evaluador(edadMinima, 10,2,"Editor"); /// Objeto anonimo
   }
-  else {
-      /// el por defecto
-      return Evaluador();
+  else
+  {
+    /// el por defecto
+    return Evaluador();
   }
 }
 
 int main()
 {
-  
+
   Evaluador evaluador;
-  
+
   evaluador = cargarEvaluador();
-  
+
   for(int i=0; i <2; i++)
   {
     Postulante post;
 
     post.cargar();
-    
+
     if(evaluador.evaluar(post))
     {
       cout << post.getNombre() << " paso!" << endl;
