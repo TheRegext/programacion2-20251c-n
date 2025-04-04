@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1743728966 source:e:\github\educacion\utn\programacion2-20251c-n\semana 3\jueves\postulantes\evaluador.cpp
+	"Evaluador.h"
+
+1743728769 e:\github\educacion\utn\programacion2-20251c-n\semana 3\jueves\postulantes\evaluador.h
+	<string>
+	"Postulante.h"
+
+1743726270 e:\github\educacion\utn\programacion2-20251c-n\semana 3\jueves\postulantes\postulante.h
+	<string>
+
+1743727187 source:e:\github\educacion\utn\programacion2-20251c-n\semana 3\jueves\postulantes\postulante.cpp
+	<iostream>
+	"Postulante.h"
+
+1743728935 source:e:\github\educacion\utn\programacion2-20251c-n\semana 3\jueves\postulantes\main.cpp
+	<iostream>
+	"Postulante.h"
+	"Evaluador.h"
+
