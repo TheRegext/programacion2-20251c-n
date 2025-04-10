@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1744325691 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\main.cpp
+	<iostream>
+	"PostulanteMenu.h"
+
+1744325677 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.cpp
+	"PostulanteMenu.h"
+	<iostream>
+
+1744325521 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.cpp
+	"Postulante.h"
+	<cstring>
+
+1744325526 d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.h
+	<string>
+
+1744325661 d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.h
+
