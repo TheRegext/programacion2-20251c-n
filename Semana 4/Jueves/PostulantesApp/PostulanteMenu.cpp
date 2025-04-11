@@ -1,4 +1,5 @@
 #include "PostulanteMenu.h"
+#include "PostulanteManager.h"
 #include <iostream>
 using namespace std;
 
@@ -6,6 +7,7 @@ using namespace std;
 void PostulanteMenu::mostrar(){
 
     int opcion;
+    PostulanteManager pManager;
     do{
     cout << "========================================================" << endl;
     cout << "        SISTEMA DE REGISTRO DE POSTULANTES" << endl;
@@ -14,7 +16,8 @@ void PostulanteMenu::mostrar(){
     cout << "2. Listar todos los postulantes" << endl;
     cout << "3. Buscar postulantes por puesto y experiencia" << endl;
     cout << "4. Mostrar postulantes contratados" << endl;
-    cout << "5. Salir" << endl;
+    cout << "5. Cantidad de registros "<< endl;
+    cout << "0. Salir" << endl;
     cout << "===============================" << endl;
     cout << "Ingrese una opcion: ";
 
@@ -23,17 +26,22 @@ void PostulanteMenu::mostrar(){
     switch(opcion) {
             case 1:
                 // Función para registrar nuevo postulante
+                pManager.cargarPostulante();
                 break;
             case 2:
                 // Función para listar postulantes
+                pManager.listarTodos();
                 break;
             case 3:
                 // Función para buscar por puesto y experiencia
                 break;
             case 4:
-                // Función para mostrar contratados
+                pManager.listarContratados();
                 break;
             case 5:
+                pManager.mostrarCantidadRegistros();
+                break;            
+            case 0:
                 return;
                 break;
             default:
@@ -42,5 +50,5 @@ void PostulanteMenu::mostrar(){
 
       cout << endl << endl;
 
-    } while(opcion != 5);
+    } while(opcion != 0);
 }
