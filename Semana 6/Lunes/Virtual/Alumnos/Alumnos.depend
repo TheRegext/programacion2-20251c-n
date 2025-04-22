@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1744805257 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\fecha.cpp
+
+1744813276 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Alumno.h"
+	"ArchivoAlumnos.h"
+	"funglobales.h"
+
+1744805444 c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\fecha.h
+
+1744813202 c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\alumno.h
+
+1744812799 c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\archivoalumnos.h
+
+1744813182 c:\users\danie\documents\curso ejemplos c\programacion ii\2025 c1 miércoles\alumnos\funglobales.h
+
