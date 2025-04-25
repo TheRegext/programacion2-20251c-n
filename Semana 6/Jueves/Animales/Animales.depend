@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1745540370 source:e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\perro.cpp
+	<iostream>
+	"Perro.h"
+
+1745539860 e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\perro.h
+	<string>
+	"Mascota.h"
+
+1745537110 source:e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\gato.cpp
+	<iostream>
+	"Gato.h"
+
+1745537113 e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\gato.h
+	<string>
+	"Mascota.h"
+
+1745540370 source:e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\main.cpp
+	<iostream>
+	"Perro.h"
+	"Gato.h"
+
+1745539953 e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\mascota.h
+	<string>
+	"Animal.h"
+
+1745540045 source:e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\mascota.cpp
+	<iostream>
+	"Mascota.h"
+
+1745540661 e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\animal.h
+
+1745538402 source:e:\github\educacion\utn\programacion2-20251c-m\semana 6\jueves\animales\animal.cpp
+	"Animal.h"
+
