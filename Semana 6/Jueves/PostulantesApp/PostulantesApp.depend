@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1744325691 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\main.cpp
+	<iostream>
+	"PostulanteMenu.h"
+
+1744325677 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.cpp
+	"PostulanteMenu.h"
+	<iostream>
+
+1744325521 source:d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.cpp
+	"Postulante.h"
+	<cstring>
+
+1744325526 d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.h
+	<string>
+
+1744325661 d:\desarrollo\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.h
+
+1744325935 source:e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\main.cpp
+	<iostream>
+	"PostulanteMenu.h"
+
+1744325935 e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.h
+
+1744325935 source:e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.cpp
+	"Postulante.h"
+	<cstring>
+
+1744332417 e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulante.h
+	<string>
+
+1744331637 source:e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemenu.cpp
+	"PostulanteMenu.h"
+	"PostulanteManager.h"
+	<iostream>
+
+1744331644 e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemanager.h
+
+1744331534 source:e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantearchivo.cpp
+	"PostulanteArchivo.h"
+
+1744331534 e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantearchivo.h
+	<string>
+	"Postulante.h"
+
+1744331849 source:e:\github\educacion\utn\programacion2-20251c-n\semana 4\jueves\postulantesapp\postulantemanager.cpp
+	<iostream>
+	<string>
+	"Postulante.h"
+	"PostulanteManager.h"
+	"PostulanteArchivo.h"
+
+1744325691 source:d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\main.cpp
+	<iostream>
+	"PostulanteMenu.h"
+
+1744325661 d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantemenu.h
+
+1744325521 source:d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulante.cpp
+	"Postulante.h"
+	<cstring>
+
+1744325526 d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulante.h
+	<string>
+
+1745532067 source:d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantearchivo.cpp
+	"PostulanteArchivo.h"
+
+1745531723 d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantearchivo.h
+	<string>
+	"Postulante.h"
+
+1745532176 source:d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantemanager.cpp
+	<iostream>
+	<string>
+	"Postulante.h"
+	"PostulanteManager.h"
+	"PostulanteArchivo.h"
+
+1745531264 d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantemanager.h
+
+1745532208 source:d:\desarrollo\utn\programacion2-20251c-n\semana 6\jueves\postulantesapp\postulantemenu.cpp
+	"PostulanteMenu.h"
+	"PostulanteManager.h"
+	<iostream>
+
