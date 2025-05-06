@@ -1,0 +1,56 @@
+Vectores y matrices-> aplicación práctica
+
+Asignación dinámica de memoria
+
+para pedir usamos new, sobre un puntero
+para devolver la memoria usamos delete sobre el puntero
+
+
+Archivos
+
+FILE *p
+fopen()
+fread()
+fwrite()
+fclose()
+fseek()
+ftell()
+
+ABML->alta, baja (lógica), modificación y listado
+
+POO
+Clase
+Objeto
+Encapsulamiento
+
+Especificadores de acceso: private, public, protected
+
+Constructor(es) y destructor
+Sobrecargas de funciones-> la posibilidad de tener varias funciones con el mismo nombre, pero se tiene que diferencia en los argumentos
+
+Herencia: de una clase base construir clases derivadas que heredan TODO lo que tiene la clase base (clase derivada ES clase base)
+Composición: mecanismo por el cual se puede usar objetos de una clase como propiedad de otra clase (clase TIENE clase que se compone)
+
+Sobrecarga de operadores: es un mecanismo que nos permite agregarle funcionalidad a los operadores, mediante la creación de métodos
+dentro de las clases (ej: bool operator ==)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
