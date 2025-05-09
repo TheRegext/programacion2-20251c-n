@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1726782853 source:e:\github\educacion\academy\python\entregas\restaurant\archivoserviciomesa.cpp
+	"Fecha.h"
+	"ArchivoServicioMesa.h"
+
+1726783148 e:\github\educacion\academy\python\entregas\restaurant\fecha.h
+	<string>
+
+1726783155 e:\github\educacion\academy\python\entregas\restaurant\archivoserviciomesa.h
+	<string>
+	"ServicioMesa.h"
+
+1726783160 e:\github\educacion\academy\python\entregas\restaurant\serviciomesa.h
+	"Fecha.h"
+
+1727382504 source:e:\github\educacion\academy\python\entregas\restaurant\examen.cpp
+	<iostream>
+	"Examen.h"
+	"ServicioMesa.h"
+	"ArchivoServicioMesa.h"
+
+1727382364 e:\github\educacion\academy\python\entregas\restaurant\examen.h
+
+1726782050 source:e:\github\educacion\academy\python\entregas\restaurant\fecha.cpp
+	"Fecha.h"
+
+1727122543 source:e:\github\educacion\academy\python\entregas\restaurant\serviciomesa.cpp
+	"ServicioMesa.h"
+
+1746747053 source:e:\github\educacion\academy\python\entregas\restaurant\main.cpp
+	"Examen.h"
+
